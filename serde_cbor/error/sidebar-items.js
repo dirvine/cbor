@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","Represents all possible errors that can occur when serializing or deserializing a value."],["ErrorCode","The errors that can arise while parsing a CBOR stream."]],"type":[["Result","Helper alias for Result objects that return a JSON Error."]]});

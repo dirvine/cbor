@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["de","CBOR deserialization."],["error","CBOR errors."],["read","CBOR special reader."],["ser","CBOR serializisation."],["value","CBOR values and keys."]]});

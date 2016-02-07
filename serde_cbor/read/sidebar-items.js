@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["PositionReader","Reader that tracks the current position of the undelying readable object in bytes."]]});
